@@ -13,7 +13,7 @@ function App() {
         <a href="https://huggingface.co/spaces/JeffreyXiang/TRELLIS" target="_blank" rel="noopener noreferrer">
            TRELLIS on Hugging Face Spaces
         </a>.
-        This repository (<a href="repolink" target="_blank" rel="noopener noreferrer">repolink</a>) provides a simple and efficient way to integrate these models into your websites.
+        This repository (<a href="https://github.com/kiritoInd/3D-Model-Integration-with-Image-to-3D-Asset-Trellis" target="_blank" rel="noopener noreferrer">repolink</a>) provides a simple and efficient way to integrate these models into your websites.
       </div>
 
       <ModelViewer modelPath={model} videoSrc={gp} videoSrc1={gp1} />
