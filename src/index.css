@@ -66,6 +66,5 @@ body{
   top: 20%;
   color: white;
 z-index: 100;
-  transform: translate(-50%, -50%);
   position: absolute;
 }
