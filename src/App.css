@@ -1,5 +1,8 @@
-canvas{
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
+canvas{
     height: 100vh;
     width: 100vw;
 }

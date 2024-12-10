@@ -1,3 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -55,8 +58,11 @@ body{
   position: relative;
 }
 .abs{
-  font-size: 40px;
-  left: 50%;
+  font-family: monospace;
+  line-height: 1.2;
+  max-width: 330px;
+  font-size: 24px;
+  left: 10%;
   top: 20%;
   color: white;
 z-index: 100;
